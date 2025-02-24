@@ -1,0 +1,26 @@
+body{
+    background-color: papayawhip;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .container{
+     background-color: aliceblue;
+     border-radius: 5px;
+     box-shadow: 0 0 10px gray;
+     padding: 20px;
+     padding-left:30px;
+ 
+ }
+ .container h2{
+     text-align: center;
+ }
+ button{
+     background-color: green;
+     color:white ;
+     cursor: pointer;
+     
+ }
+ button:hover{
+     background-color: tomato;
+ }
